@@ -1,4 +1,4 @@
-qqq:version: '3'
+version: '3'
 services:
     messaging:
         image: 'rabbitmq:3-management'
